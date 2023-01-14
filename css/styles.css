@@ -1,0 +1,100 @@
+body {
+  background: #579BB1;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 20px
+}
+
+
+
+#Home {
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Alegreya', serif;
+  font-family: 'Roboto Mono', monospace;
+  color: #edf5e1;
+  font-size: 40px;
+}
+
+#Home p {
+  color: black;
+  font-size: 30px
+}
+
+#Products {
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Alegreya', serif;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 40px;
+  color: #edf5e1;
+}
+
+#Products p {
+  font-size: 30px;
+  color: black
+}
+
+#Products img {
+  width: 500px;
+  height: 500px
+
+}
+#ContactUs {
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Alegreya', serif;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 40px;
+  color: #edf5e1;
+}
+
+#ContactUs p {
+  color: black
+}
+
+#Location {
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Alegreya', serif;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 40px;
+  color: #edf5e1;
+}
+
+.LeftBox {
+  width: 50%; height: 100px; float: left; background: green;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Alegreya', serif;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.RightBox {
+  margin-left: 50%; height: 100px; background: blue;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Alegreya', serif;
+  font-family: 'Roboto Mono', monospace;
+}
